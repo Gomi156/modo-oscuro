@@ -1,0 +1,28 @@
+.oscuro{ 
+  background-color: #000000; 
+  color: #ffffff; 
+}
+
+.claro{ 
+  background-color: #ffffff; 
+  color: #000000; 
+} 
+
+p {
+  text-align:center;
+}
+
+h1{
+  
+    text-align:center;
+  
+}
+a {
+  text-align:center;
+  
+}
+
+title{
+  text-align:center;
+}
+
